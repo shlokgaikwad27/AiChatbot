@@ -1,0 +1,63 @@
+# Greetings
+hi=Hi! How can I assist you today? Ask me about products, payments, refunds, or support.
+hello=Hello! Welcome to our customer support chatbot. How can I help you today?
+hii=Hi there! Ask me any product related questions like refund, price, or payment.
+hey=Hey! Ask me any product or support related questions.
+how are you=I am here to help you with your queries. Ask me about products or services.
+
+# Bot Identity
+what is your name=I am an AI-powered customer support chatbot.
+who created you=I was developed by Omkar Ghanawat as a Python and NLP project.
+who made you=I was developed by Omkar Ghanawat as a Python and NLP project.
+who developed you=I was developed by Omkar Ghanawat as a Python and NLP project.
+are you human=No, I am an AI chatbot designed to assist users.
+
+# Bot Capabilities
+what can you do=I can answer questions about products, orders, payments, refunds, and customer support.
+what can you help with=I help users with product info, pricing, payments, orders, and technical support.
+your features=My features include automated replies, FAQ support, database logging, and NLP-based understanding.
+help=You can ask about products, orders, payments, refunds, or support.
+
+# Product & Services
+what is your product=We provide AI chatbot and automation software solutions.
+what services do you offer=We offer chatbot development, automation tools, and technical support.
+demo=You can request a demo by contacting support.
+
+# Pricing
+price=Our chatbot solution starts from $999.
+cost=The chatbot service cost depends on features, starting from $999.
+charges=We charge $999 for the basic service.
+
+# Orders
+how to place order=You can place an order by contacting our sales team or website.
+order status=Please provide your order ID to check status.
+cancel order=To cancel an order, contact support within 24 hours.
+
+# Payment
+payment methods=We accept credit card, debit card, UPI, and online banking.
+is online payment safe=Yes, all payments are secured using encryption.
+
+# Refund
+refund policy=Refunds are available within 7 days if terms are met.
+how to get refund=Contact support with your order ID for refund processing.
+
+# Support
+contact support=You can contact support via email or phone.
+email=Our support email is omkar.ghanawat1@gmail.com.
+phone=You can call us at +91-9420465881.
+working hours=Our support team is available from 9 AM to 6 PM.
+
+# Complaints
+complaint=Please describe your issue and our team will assist you.
+report issue=You can report issues via email or chatbot.
+
+# Company Info
+about=This is an AI-powered customer support chatbot system.
+company=We are a tech-based startup company.
+location=We operate online and serve customers globally.
+address=Our office is located in Pune, Maharashtra, India.
+
+# Ending
+bye=Thank you for contacting support. Have a great day!
+thank you=You're welcome! Happy to help.
+thanks=Glad to assist you.

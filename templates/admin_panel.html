@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+    background:#0f172a;
+    color:white;
+    font-family:Arial;
+}
+button{
+    padding:10px 20px;
+    border:none;
+    border-radius:6px;
+    background:red;
+    color:white;
+    cursor:pointer;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+th,td{
+    border:1px solid gray;
+    padding:5px;
+}
+</style>
+</head>
+<body>
+
+<h2>📊 Admin Dashboard</h2>
+
+<a href="/clear_history"><button>🗑 Clear Chat History</button></a>
+
+<h3>Chat Logs:</h3>
+<table>
+<tr>
+<th>ID</th><th>User</th><th>Message</th><th>Bot Reply</th><th>Time</th>
+</tr>
+
+{% for row in logs %}
+<tr>
+<td>{{row[0]}}</td>
+<td>{{row[1]}}</td>
+<td>{{row[2]}}</td>
+<td>{{row[3]}}</td>
+<td>{{row[4]}}</td>
+</tr>
+{% endfor %}
+
+</table>
+
+</body>
+</html>
