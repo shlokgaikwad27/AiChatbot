@@ -1,81 +1,46 @@
-AI-Powered Chatbot Project:-
-This is an AI-powered customer support chatbot built using Python, NLP, Flask, and SQLite.
-The chatbot answers FAQs, logs conversations, and provides an admin panel to view and manage chat history.
-
-
-🚀 Features:-
-
-✅ Chatbot
-FAQ-based intelligent chatbot
-NLP keyword matching using NLTK
-Contextual fallback replies
-Chat history stored in SQLite
-
-✅ Web Interface
-ChatGPT-style chat UI
-User & bot messages with timestamps
-Typing animation
-Responsive design
-
-✅ Admin Panel
-Secure admin login
-View chat history
-Clear chat logs
-Session-based authentication
-
-
-🛠️ Technologies Used:-
-
-Python
-Flask
-SQLite
-NLTK (Natural Language Processing)
-HTML, CSS, JavaScript
-
-
-📂 Project Structure:-
-
-AI_Chatbot_Project/
-│
-├── app.py
-├── chatbot_core.py
-├── Chat_data.txt
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   ├── home.html
-│   ├── chat.html
-│   ├── admin_login.html
-│   ├── admin_panel.html
-│   ├── wrong_password.html
-│
-├── static/
-│   ├── chat.css
-│   ├── chat.js
-│   ├── style.css
-│
-├── .gitignore
-└── password.txt
-
-
-Admin Login:-
-    Password stored in password.txt
-    Admin can:
-        View chat logs
-        Delete chat history
-
-
-📌 Future Enhancements:-
-
-Machine learning-based chatbot
-Transformer / GPT model integration
-Voice chatbot
-User authentication system
-Cloud deployment
-
-
-👨‍💻 Developer:-
-
-Omkar Ghanawat
-3rd Year IT Student | Data Science Enthusiast
+🐍 Python Project – Internship Submission
+This document contains a Python-based project developed as part of an internship submission requirement. The project demonstrates core Python programming skills, problem-solving ability, and clean coding practices.
+👤 Author
+Name: Shlok Gaikwad
+Qualification: TE Artificial Intelligence & Data Science (AI & DS) Student
+🎯 Project Objective
+- Demonstrate understanding of Python fundamentals
+- Apply logical thinking and problem-solving skills
+- Write clean, readable, and maintainable Python code
+- Follow basic software development and version control practices
+🧠 Key Concepts Used
+- Python programming fundamentals
+- Conditional statements and loops
+- Functions and modular programming
+- Data structures (lists, dictionaries, sets, tuples)
+- Exception handling (where applicable)
+🛠️ Technologies & Tools
+Programming Language: Python 3
+Version Control: Git & GitHub
+IDE: VS Code / PyCharm
+Platform: Windows / Linux
+📁 Project Structure
+src / main.py  → Core Python source code
+README.md     → Project documentation
+requirements.txt → Dependencies (if any)
+▶️ How to Run the Project
+1. Clone the repository using Git
+2. Navigate to the project folder
+3. Install dependencies (if required)
+4. Run the project using Python
+✨ Features
+- Simple and clear Python implementation
+- Well-structured code
+- Beginner-friendly logic
+- Suitable for internship and academic evaluation
+📈 Future Enhancements
+- Add advanced Python features
+- Improve performance and optimization
+- Add testing and documentation
+- Extend functionality based on real-world use cases
+📌 Declaration
+This project is original work developed by the author for educational and internship evaluation purposes.
+📬 Author Information
+Author: Shlok Gaikwad
+Course: TE Artificial Intelligence & Data Science
+Purpose: Internship Project Submission
